@@ -174,7 +174,7 @@ and open the template in the editor.
                   </div>
                   <div class="col-sm-5 text-right">
                       <a class="btn" href="https://bit.ly/2ykFKUn"><i class="fas fa-camera-retro"></i></a>
-                      <a class="btn" href=""><i class="fab fa-github"></i></a>
+                      <a class="btn" href="https://bit.ly/2KuQDEF"><i class="fab fa-github"></i></a>
                       <a class="btn" href="https://bit.ly/2tkyvpF"><i class="fab fa-whatsapp"></i></a>
                   </div>
               </div>
